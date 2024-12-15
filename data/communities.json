@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Salar de Uyuni Community",
+      "location": [-20.1428, -67.5001],
+      "description": "Experience the vastness of the world's largest salt flat.",
+      "activities": ["Salt flat tours", "Stargazing", "Wildlife viewing"],
+      "image": "images/salar_de_uyuni.jpeg"
+
+    },
+      {
+      "name": "Lake Titicaca Community",
+      "location": [-16.1667, -69.0500],
+      "description": "Explore the highest navigable lake in the world.",
+      "activities": ["Boat tours", "Island visits", "Cultural exchanges"],
+      "image": "images/lake_titicaca.jpeg"
+
+    },
+    {
+      "name": "Amazon Rainforest Community",
+      "location": [-15.7797, -67.0922],
+      "description": "Discover the biodiversity of the Amazon rainforest.",
+      "activities": ["Jungle treks", "Wildlife spotting", "River cruises"],
+      "image": "images/madidi.jpeg"
+    }
+  ]
